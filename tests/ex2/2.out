@@ -1,0 +1,5 @@
+valid: 12 5 7
+kelvin: 285 278 280
+labels: O O O
+errors: 2
+all_above_zero: yes

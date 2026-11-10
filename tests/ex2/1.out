@@ -1,0 +1,5 @@
+valid: 25 31 0 -3 18
+kelvin: 298 304 273 270 291
+labels: O H C C O
+errors: 1
+all_above_zero: no
