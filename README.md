@@ -5,10 +5,10 @@
 ## 문제 목록
 | # | 문제 | 다루는 개념 | 풀이 | 테스트 |
 |---|---|---|---|---|
-| 1 | [플레이리스트](problems/ex1.md) | `append`, `insert`, `pop(0)`, `remove`, `join` | [ex1.py](solutions/ex1.py) | |
-| 2 | [센서 데이터 정리](problems/ex2.md) | 리스트 컴프리헨션, 조건식, `all` | [ex2.py](solutions/ex2.py) | |
-| 3 | [곱셈표](problems/ex3.md) | 중첩 컴프리헨션, 2차원 리스트 | [ex3.py](solutions/ex3.py) | |
-| 4 | [원점에서 가까운 순서](problems/ex4.md) | 튜플 정렬, 언패킹, `enumerate` | [ex4.py](solutions/ex4.py) | |
+| 1 | [플레이리스트](problems/ex1.md) | `append`, `insert`, `pop(0)`, `remove`, `join` | [ex1.py](solutions/ex1.py) | ✅ 2/2 |
+| 2 | [센서 데이터 정리](problems/ex2.md) | 리스트 컴프리헨션, 조건식, `all` | [ex2.py](solutions/ex2.py) | ✅ 2/2 |
+| 3 | [곱셈표](problems/ex3.md) | 중첩 컴프리헨션, 2차원 리스트 | [ex3.py](solutions/ex3.py) | ✅ 2/2 |
+| 4 | [원점에서 가까운 순서](problems/ex4.md) | 튜플 정렬, 언패킹, `enumerate` | [ex4.py](solutions/ex4.py) | ✅ 2/2 |
 
 ## 실행 방법
 ```sh
